@@ -1,1 +1,1 @@
-<?php include_once("dorime.html"); ?>
+<?php include_once("index.html"); ?>
